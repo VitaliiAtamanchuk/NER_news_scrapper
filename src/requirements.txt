@@ -1,0 +1,9 @@
+fastapi
+pydantic
+sqlalchemy[postgresql_asyncpg]
+psycopg2-binary
+alembic
+celery
+redis
+
+uvicorn
